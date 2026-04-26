@@ -1,4 +1,4 @@
-# EDA-Capstone-Project
+
 # EDA Capstone Project - Global Terrorism Data
 
 ## Overview
